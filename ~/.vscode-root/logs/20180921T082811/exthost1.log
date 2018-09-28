@@ -1,0 +1,38 @@
+[2018-09-21 08:28:19.150] [exthost1] [info] extension host started
+[2018-09-21 08:28:19.227] [exthost1] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-09-21 08:28:19.229] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/out/extension
+[2018-09-21 08:28:19.256] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-09-21 08:28:19.256] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-09-21 08:28:19.356] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-09-21 08:28:19.356] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-09-21 08:28:19.699] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-09-21 08:28:19.699] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-09-21 08:28:19.723] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-09-21 08:28:19.723] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/out/extension
+[2018-09-21 08:28:19.736] [exthost1] [info] eager extensions activated
+[2018-09-21 08:31:03.896] [exthost1] [info] extension host started
+[2018-09-21 08:31:03.991] [exthost1] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-09-21 08:31:03.992] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/out/extension
+[2018-09-21 08:31:04.019] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-09-21 08:31:04.019] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-09-21 08:31:04.183] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-09-21 08:31:04.183] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-09-21 08:31:04.714] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-09-21 08:31:04.715] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-09-21 08:31:04.741] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-09-21 08:31:04.741] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/out/extension
+[2018-09-21 08:31:04.757] [exthost1] [info] eager extensions activated
+[2018-09-21 08:31:13.677] [exthost1] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2018-09-21 08:31:13.678] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/out/extension
+[2018-09-21 08:31:13.712] [exthost1] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2018-09-21 08:31:13.712] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2018-09-21 08:31:14.169] [exthost1] [info] ExtensionService#_doActivateExtension pmneo.tsimporter {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2018-09-21 08:31:14.170] [exthost1] [info] ExtensionService#loadCommonJSModule /home/alfaepsilon/.vscode/extensions/pmneo.tsimporter-1.2.14/out/TypeScriptImporter
+[2018-09-21 08:31:45.409] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-09-21 08:31:45.409] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/out/extension
+[2018-09-21 08:31:45.522] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-09-21 08:31:45.522] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2018-09-21 09:31:37.905] [exthost1] [info] ExtensionService#_doActivateExtension MariusAlchimavicius.json-to-ts {"startup":false,"activationEvent":"onCommand:jsonToTs.fromClipboard"}
+[2018-09-21 09:31:37.905] [exthost1] [info] ExtensionService#loadCommonJSModule /home/alfaepsilon/.vscode/extensions/mariusalchimavicius.json-to-ts-1.5.5/out/src/index
+[2018-09-21 09:31:50.602] [exthost1] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-09-21 09:31:50.602] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/npm/out/main
